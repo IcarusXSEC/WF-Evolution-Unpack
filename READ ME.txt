@@ -1,0 +1,5 @@
+Source Included for Evolution Unpack - Note i do not own Evoltuion unpack nor am i the creator
+
+Copy Warframe Files In this Folder INCLUDING .TOC files. 
+Hold Shift and Right Click Open CMD here. then
+run unpack.bat, then wait. Make Sure you have enough Space on drive
